@@ -1,0 +1,33 @@
+_repo: Mary-Olivier-a-Life_9366
+creator:
+  author:
+    agent_name: Sinclair, May
+    alias: Sinclair, Mary Amelia St. Clair
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '3004'
+    url: http://www.gutenberg.org/2009/agents/3004
+    wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
+description: '"As a child, Mary Olivier''s dreamy disposition and fierce intelligence
+  set her apart from her Victorian family, especially her mother, "Little Mamma,"
+  whose dazzling looks cannot hide her meager love for her only daughter. Mary grows
+  up in a world of her own, a solitude that leaves her free to explore her deepest
+  passions, for literature and philosophy, for the austere beauties of England''s
+  north country, even as she continues to attend to her family. But in time the independence
+  Mary values at almost any cost threatens to become a form of captivity itself"--Publisher''s
+  description.'
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Mothers and daughters -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Domestic fiction'
+title: 'Mary Olivier: a Life'
+url: http://www.gutenberg.org/ebooks/9366
