@@ -1,4 +1,8 @@
 _repo: Mary-Olivier-a-Life_9366
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, May
@@ -16,6 +20,8 @@ description: '"As a child, Mary Olivier''s dreamy disposition and fierce intelli
   north country, even as she continues to attend to her family. But in time the independence
   Mary values at almost any cost threatens to become a form of captivity itself"--Publisher''s
   description.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9366#Mary-Olivier-a-Life
 gutenberg_issued: '2005-11-01'
 gutenberg_type: Text
 identifiers:
